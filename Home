@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>David's Home Help</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fef8f4;
+      color: #333;
+    }
+    header {
+      background-color: #ffd27f;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .hero-img {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+    }
+    .intro {
+      padding: 20px;
+      text-align: center;
+    }
+    .services {
+      background: #fff5e1;
+      padding: 20px;
+    }
+    .services h2 {
+      text-align: center;
+    }
+    .services ul {
+      list-style: none;
+      padding: 0;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+    .services li {
+      background: #ffe4b5;
+      margin: 10px 0;
+      padding: 10px;
+      border-radius: 8px;
+    }
+    .cta {
+      text-align: center;
+      margin: 30px 0;
+    }
+    .cta a {
+      background-color: #f59e0b;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-size: 1.2em;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #ffd27f;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>David's Home Help</h1>
+    <p>Cleaning, Repairs & Yard Work in La Crescenta, CA</p>
+  </header>
+
+  <img src="YOUR_IMAGE_URL_HERE" alt="David Bau smiling" class="hero-img">
+
+  <section class="intro">
+    <h2>Hi, I'm David Bau</h2>
+    <p>I’m a reliable, local helping hand in La Crescenta and surrounding areas. I love to travel — especially with my girlfriend — and helping people around the home is what keeps me moving toward that dream. Let me take care of the work, so you can enjoy your home stress-free.</p>
+  </section>
+
+  <section class="services">
+    <h2>Services I Offer</h2>
+    <ul>
+      <li>✅ Basic Cleaning (Homes, Garages, Move-Outs)</li>
+      <li>🔧 Small Repairs (Fixtures, Furniture, Odd Jobs)</li>
+      <li>🌿 Yard Work (Mowing, Trimming, Clearing)</li>
+    </ul>
+  </section>
+
+  <div class="cta">
+    <a href="tel:7475881054">📞 Call David Now: (747) 588-1054</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 David's Home Help – Serving La Crescenta, CA and nearby areas</p>
+  </footer>
+</body>
+</html>
